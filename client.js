@@ -1,2 +1,4 @@
-const connect = require('./play');
-connect();
+const game = require('./play');
+
+game.connect();
+game.setupInput();
