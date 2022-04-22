@@ -15,14 +15,12 @@ const connect = () => {
   })
 
   conn.on('connect', () => {
-  conn.write('Name: DH');
-  });
+  conn.write('Say: Hiii');
+  })
   
-  // setInterval(() => {
-  //   conn.write('Move: up');
-
-  // }, 500)
-
+  // conn.on('connect', () => {
+  // conn.write('Say: Hii');
+  // });
   
   return conn;
 };
