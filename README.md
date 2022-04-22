@@ -8,8 +8,8 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-!["screenshot description"](#)
-!["screenshot description"](#)
+!["screenshot image"](Screen%20Shot%202022-04-22%20at%2011.41.23%20AM.png)
+!["video"](https://upload.wikimedia.org/wikipedia/commons/5/55/Snake_can_be_completed.gif)
 
 ## Getting Started
 
