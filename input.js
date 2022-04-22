@@ -28,9 +28,6 @@ const handleUserInput = (key) => {
     }
   };
 
-
-
-
 module.exports = {
   handleUserInput: handleUserInput,
   setupInput:setupInput
